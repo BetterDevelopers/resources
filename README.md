@@ -12,3 +12,4 @@ Feel free to create a PR and add your own resources! This is a quick and easy wa
 
 - [Corey Prak](http://coreyprak.me)
 - [Asam Shan](http://asamshan.com/)
+- [Ken Sandoval](https://github.com/kenSandoval)
