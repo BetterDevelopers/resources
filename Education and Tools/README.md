@@ -3,21 +3,21 @@ This is probably going to be a big list, I'll do my best to break it up and orga
 ------ Programming Education -------
 
 ## Usually Paid Resources:
-Udemy
-Udacity
-Khan Academy
-Treehouse
+Udemy  
+Udacity  
+Khan Academy  
+Treehouse  
 
 ## Free and Free-ish Resources:
-FreeCodeCamp
-codeacademy
-scrimba
-codefights
-kirupa
-hackerrank
-teachyourselfcs.com
-digitalocean
-auth0
+FreeCodeCamp  
+codeacademy  
+scrimba  
+codefights  
+kirupa  
+hackerrank  
+teachyourselfcs.com  
+digitalocean  
+auth0  
 
 My personal favorite no bullshit git commands --- https://rogerdudler.github.io/git-guide/
 
