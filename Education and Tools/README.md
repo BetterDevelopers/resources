@@ -20,15 +20,14 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Auth0](https://auth0.com)  
 
 
-Static site gen options -- https://www.staticgen.com/
-
-Headless CMS options -- https://headlesscms.org/
-
 ## General Resources
 
 [CODEPEN](https://codepen.io/) - in broswer development environment to share code snippets.  
 [STACKOVERFLOW](https://stackoverflow.com/) - Amazing forum for when you are truly stuck. Almoost every question has been answered.  
 [MDN Docs](https://developer.mozilla.org/en-US/) - Great documentation for all things programming.  
+Static site gen options -- https://www.staticgen.com/
+
+Headless CMS options -- https://headlesscms.org/
 
 ## Design Resources
 
