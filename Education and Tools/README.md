@@ -2,14 +2,14 @@ This is probably going to be a big list, I'll do my best to break it up and orga
 
 ------ Programming Education -------
 
-## Usually Paid Resources:
-Udemy  
-Udacity  
-Khan Academy  
-Treehouse  
+## Freemium Paid Resources:
+[Udemy](https://www.udemy.com/)
+[Udacity](https://www.udacity.com/)
+[Khan Academy](https://www.khanacademy.org/)
+[Treehouse](https://teamtreehouse.com)
 
 ## Free and Free-ish Resources:
-FreeCodeCamp  
+[FreeCodeCamp](https://www.freecodecamp.org/)
 codeacademy  
 scrimba  
 codefights  
