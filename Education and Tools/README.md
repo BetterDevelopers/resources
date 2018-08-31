@@ -2,22 +2,22 @@ This is probably going to be a big list, I'll do my best to break it up and orga
 
 ------ Programming Education -------
 
-## Freemium Paid Resources:
-[Udemy](https://www.udemy.com/)
-[Udacity](https://www.udacity.com/)
-[Khan Academy](https://www.khanacademy.org/)
-[Treehouse](https://teamtreehouse.com)
+## Freemium Resources:
+[Udemy](https://www.udemy.com/)  
+[Udacity](https://www.udacity.com/)  
+[Khan Academy](https://www.khanacademy.org/)  
+[Treehouse](https://teamtreehouse.com)  
 
 ## Free and Free-ish Resources:
-[FreeCodeCamp](https://www.freecodecamp.org/)
-codeacademy  
-scrimba  
-codefights  
-kirupa  
-hackerrank  
-teachyourselfcs.com  
-digitalocean  
-auth0  
+[FreeCodeCamp](https://www.freecodecamp.org/)  
+[Codeacademy](https://www.codecademy.com/)  
+[Scrimba](https://scrimba.com/)  
+[CodeSignal](https://codesignal.com/)  
+[Kirupa](https://www.kirupa.com/)  
+[HackerRank](https://www.hackerrank.com)  
+[Teach Yourself CS](teachyourselfcs.com)  
+[DigitalOcean](https://www.digitalocean.com/)  
+[Auth0](https://auth0.com)  
 
 
 Static site gen options -- https://www.staticgen.com/
