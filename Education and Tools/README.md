@@ -7,8 +7,6 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Udacity](https://www.udacity.com/)  
 [Khan Academy](https://www.khanacademy.org/)  
 [Treehouse](https://teamtreehouse.com)  
-
-## Free and Free-ish Resources:
 [FreeCodeCamp](https://www.freecodecamp.org/)  
 [Codeacademy](https://www.codecademy.com/)  
 [Scrimba](https://scrimba.com/)  
