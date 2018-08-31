@@ -39,7 +39,9 @@ Headless CMS options -- https://headlesscms.org/
 
 [WHAT THE FONT](https://www.myfonts.com/WhatTheFont/) - Find out the name of any font from a simple image of the text.
 [FONT AWESOME](https://fontawesome.com/) - Great selection of free and premium Icons.
-[DA FONT](https://www.dafont.com/) - Amazinf resource for custom fonts.
+[DA FONT](https://www.dafont.com/) - Amazing resource for custom fonts.
+[FLATICON](https://www.flaticon.com/) -Free and paid icons available in various sizes.
+
 
 ## Images & Video
 
@@ -53,3 +55,6 @@ Headless CMS options -- https://headlesscms.org/
 [NO BULLSHIT GIT COMMANDS](https://rogerdudler.github.io/git-guide/) - My personal favorite no bullshit git commands.
 [SHOPIFY](https://www.shopify.com/partners/shopify-cheat-sheet) - Shopify cheat sheet, mostly covers liquid syntax but good.
 
+## Chrome Extensions
+
+[COLORZILLA](http://www.colorzilla.com/chrome/) - Pick color from web page and more color options directly in browser.
