@@ -1,4 +1,4 @@
-This is probably going to be a big list, I'll do my best to break it up and organize it. We will do our best to make sure it stays updated regularly:
+This is probably going to be a big list, we'll do our best to break it up and organize it. We will do our best to make sure it stays updated regularly:
 
 ------ Programming Education -------
 
