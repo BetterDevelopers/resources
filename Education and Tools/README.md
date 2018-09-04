@@ -8,6 +8,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Khan Academy](https://www.khanacademy.org/)  
 [Treehouse](https://teamtreehouse.com)  
 [FreeCodeCamp](https://www.freecodecamp.org/)  
+[TheOdinProject](https://www.theodinproject.com/)  
 [Codeacademy](https://www.codecademy.com/)  
 [Scrimba](https://scrimba.com/)  
 [CodeSignal](https://codesignal.com/)  
@@ -33,9 +34,9 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 ## Fonts, Graphics & Icons
 
-[WHAT THE FONT](https://www.myfonts.com/WhatTheFont/) - Find out the name of any font from a simple image of the text.
-[FONT AWESOME](https://fontawesome.com/) - Great selection of free and premium Icons.
-[DA FONT](https://www.dafont.com/) - Amazing resource for custom fonts.
+[WHAT THE FONT](https://www.myfonts.com/WhatTheFont/) - Find out the name of any font from a simple image of the text.  
+[FONT AWESOME](https://fontawesome.com/) - Great selection of free and premium Icons.  
+[DA FONT](https://www.dafont.com/) - Amazing resource for custom fonts.  
 [FLATICON](https://www.flaticon.com/) -Free and paid icons available in various sizes.  
 
 ## Images & Video
