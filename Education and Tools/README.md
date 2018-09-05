@@ -12,12 +12,14 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Codeacademy](https://www.codecademy.com/)  
 [Scrimba](https://scrimba.com/)  
 [CodeSignal](https://codesignal.com/)  
-[Kirupa](https://www.kirupa.com/)  
-[HackerRank](https://www.hackerrank.com)  
+[Kirupa](https://www.kirupa.com/)   
 [Teach Yourself CS](teachyourselfcs.com)  
+
+
+## Blogs
 [DigitalOcean](https://www.digitalocean.com/)  
 [Auth0](https://auth0.com)  
-
+[HackerRank](https://www.hackerrank.com) 
 
 ## General Resources
 
