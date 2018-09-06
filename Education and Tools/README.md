@@ -12,16 +12,19 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Codeacademy](https://www.codecademy.com/)  
 [Scrimba](https://scrimba.com/)  
 [CodeSignal](https://codesignal.com/)  
-[Kirupa](https://www.kirupa.com/)  
-[HackerRank](https://www.hackerrank.com)  
+[Kirupa](https://www.kirupa.com/)   
 [Teach Yourself CS](teachyourselfcs.com)  
+
+
+## Blogs
 [DigitalOcean](https://www.digitalocean.com/)  
 [Auth0](https://auth0.com)  
-
+[HackerRank](https://www.hackerrank.com) 
 
 ## General Resources
 
 [CODEPEN](https://codepen.io/) - in broswer development environment to share code snippets.  
+[CodeSandbox](https://codesandbox.io) - in browser IDE  
 [STACKOVERFLOW](https://stackoverflow.com/) - Amazing forum for when you are truly stuck. Almoost every question has been answered.  
 [MDN Docs](https://developer.mozilla.org/en-US/) - Great documentation for all things programming.  
 [StaticGen](https://www.staticgen.com/) - Static site gen options  
@@ -50,6 +53,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [OH SHIT GIT](http://ohshitgit.com/) - Cheat sheet for non standard Git commands used to get you out of a mess.  
 [NO BULLSHIT GIT COMMANDS](https://rogerdudler.github.io/git-guide/) - My personal favorite no bullshit git commands.  
 [SHOPIFY](https://www.shopify.com/partners/shopify-cheat-sheet) - Shopify cheat sheet, mostly covers liquid syntax but good.  
+[CSS Grid Cheat Sheet](http://grid.malven.co/) - CSS Grid Cheat Sheet
 
 ## Chrome Extensions
 
