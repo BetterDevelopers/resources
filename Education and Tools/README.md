@@ -59,6 +59,12 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 [COLORZILLA](http://www.colorzilla.com/chrome/) - Pick color from web page and more color options directly in browser.
 
+## Bash Guide
+
+[Bash Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)  
+[The Bash Guide](https://guide.bash.academy/)  
+[Another Bash Guide](http://mywiki.wooledge.org/BashGuide)  
+
 ## Youtube Channels
 
 [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/) - Various tutorial/guide style video's ranging from front-end to back-end to full stack development and more. This channel is very project based.   
