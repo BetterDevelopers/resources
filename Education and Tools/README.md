@@ -64,3 +64,8 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Bash Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)  
 [The Bash Guide](https://guide.bash.academy/)  
 [Another Bash Guide](http://mywiki.wooledge.org/BashGuide)  
+
+## Youtube Channels
+
+[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/) - Various tutorial/guide style video's ranging from front-end to back-end to full stack development and more. This channel is very project based.   
+[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Vast collection of tutorial video's going over various technologies and languages which range from front-end to back-end to full stack.
