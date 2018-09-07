@@ -14,3 +14,4 @@ Feel free to create a PR and add your own resources! This is a quick and easy wa
 - [Asam Shan](http://asamshan.com/)
 - [Ken Sandoval](https://github.com/kenSandoval)
 - [Ryan Tabassi](https://github.com/Ar3Tea)
+- [Kenny](https://github.com/Sneakzz)
