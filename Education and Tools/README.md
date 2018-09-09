@@ -2,7 +2,8 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 ------ Programming Education -------
 
-## Freemium Resources:
+## Freemium Resources:  
+[Exercism](https://exercism.io)  
 [Udemy](https://www.udemy.com/)  
 [Udacity](https://www.udacity.com/)  
 [Khan Academy](https://www.khanacademy.org/)  
