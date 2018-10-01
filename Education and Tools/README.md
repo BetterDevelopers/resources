@@ -58,6 +58,8 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [NO BULLSHIT GIT COMMANDS](https://rogerdudler.github.io/git-guide/) - My personal favorite no bullshit git commands.  
 [SHOPIFY](https://www.shopify.com/partners/shopify-cheat-sheet) - Shopify cheat sheet, mostly covers liquid syntax but good.  
 [CSS Grid Cheat Sheet](http://grid.malven.co/) - CSS Grid Cheat Sheet
+[REACT CheatSheet](https://devhints.io/react) - REACT Cheatsheet, also many other cheatsheets on [devhints](https://devhints.io/)
+
 
 ## Chrome Extensions
 
