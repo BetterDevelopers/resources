@@ -32,7 +32,11 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [STACKOVERFLOW](https://stackoverflow.com/) - Amazing forum for when you are truly stuck. Almoost every question has been answered.  
 [MDN Docs](https://developer.mozilla.org/en-US/) - Great documentation for all things programming.  
 [StaticGen](https://www.staticgen.com/) - Static site gen options  
-[Headless CMS](https://headlesscms.org/) - Headless CMS options
+[Headless CMS](https://headlesscms.org/) - Headless CMS options  
+
+## Communities  
+
+[Devto](https://dev.to/t/devto) - community anyone can join, lots of resources, some people use on their resume/cv
 
 ## Design Resources
 
@@ -78,7 +82,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 ## Podcasts
 
-[SyntaxFM](https://syntax.fm/)
-[Fronted End Happy Hour](http://frontendhappyhour.com/)
-[Developer Tea](https://spec.fm/podcasts/developer-tea)
-[CodeNewbie](https://www.codenewbie.org/podcast)
+[SyntaxFM](https://syntax.fm/)  
+[Fronted End Happy Hour](http://frontendhappyhour.com/)  
+[Developer Tea](https://spec.fm/podcasts/developer-tea)  
+[CodeNewbie](https://www.codenewbie.org/podcast)  
