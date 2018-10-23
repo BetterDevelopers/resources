@@ -4,6 +4,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 ## Freemium Resources:
 
+[Learnetto](https://learnetto.com)  
 [Exercism](https://exercism.io)  
 [Udemy](https://www.udemy.com/)  
 [Udacity](https://www.udacity.com/)  
