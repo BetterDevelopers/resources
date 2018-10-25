@@ -19,6 +19,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Teach Yourself CS](teachyourselfcs.com)  
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 [Eloquent JavaScript](https://eloquentjavascript.net/)
+[Code Wars](https://www.codewars.com/)
 
 ## Blogs
 
@@ -38,11 +39,13 @@ This is probably going to be a big list, we'll do our best to break it up and or
 ## Communities  
 
 [Devto](https://dev.to/t/devto) - community anyone can join, lots of resources, some people use on their resume/cv
+[hack.pledge](https://hackpledge.org/) - connect with developers by each pledging 1 hour of your time to learn or teach.
 
 ## Design Resources
 
 [COOLERS.CO](https://coolors.co/) - Decent resource for picking color schemes.  
 [PALLETON](http://www.paletton.com/) - Advanced color pallete generator with advanced fine tuning available.
+[COLOR-HEX](https://www.color-hex.com/) - Useful for finding Hex Color Codes and Palettes.
 
 ## Fonts, Graphics & Icons
 
