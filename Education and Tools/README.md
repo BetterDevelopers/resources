@@ -20,6 +20,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 [Eloquent JavaScript](https://eloquentjavascript.net/)
 [MySQLTutorial](http://www.mysqltutorial.org/)
+[Code Wars](https://www.codewars.com/)
 
 ## Blogs
 
@@ -44,6 +45,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 [COOLERS.CO](https://coolors.co/) - Decent resource for picking color schemes.  
 [PALLETON](http://www.paletton.com/) - Advanced color pallete generator with advanced fine tuning available.
+[COLOR-HEX](https://www.color-hex.com/) - Useful for finding Hex Color Codes and Palettes
 
 ## Fonts, Graphics & Icons
 
