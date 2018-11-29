@@ -39,7 +39,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
   
   
 ## ReactJS
-(https://github.com/BetterDevelopers/resources.git) - the most in-depth intro to React I have ever seen  
+(https://scrimba.com/p/p7P5Hd/TodoItem) - the most in-depth intro to React I have ever seen  
 
 ## Communities  
 
