@@ -59,6 +59,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 ## Chrome Extensions
 
 [COLORZILLA](http://www.colorzilla.com/chrome/) - Pick color from web page and more color options directly in browser.
+[CSS PEEPER](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en) - Great chrome extension for seeing what CSS styles are used on any website.
 
 ## Bash Guide
 
