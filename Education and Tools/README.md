@@ -36,6 +36,10 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [MDN Docs](https://developer.mozilla.org/en-US/) - Great documentation for all things programming.  
 [StaticGen](https://www.staticgen.com/) - Static site gen options  
 [Headless CMS](https://headlesscms.org/) - Headless CMS options  
+  
+  
+## ReactJS
+(https://github.com/BetterDevelopers/resources.git) - the most in-depth intro to React I have ever seen  
 
 ## Communities  
 
