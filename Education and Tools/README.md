@@ -19,6 +19,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [Teach Yourself CS](teachyourselfcs.com)  
 [You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 [Eloquent JavaScript](https://eloquentjavascript.net/)
+[MySQLTutorial](http://www.mysqltutorial.org/)
 [Code Wars](https://www.codewars.com/)
 
 ## Blogs
@@ -35,6 +36,10 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [MDN Docs](https://developer.mozilla.org/en-US/) - Great documentation for all things programming.  
 [StaticGen](https://www.staticgen.com/) - Static site gen options  
 [Headless CMS](https://headlesscms.org/) - Headless CMS options  
+  
+  
+## ReactJS
+https://scrimba.com/p/p7P5Hd/TodoItem - the most in-depth intro to React I have ever seen  
 
 ## Communities  
 
@@ -45,7 +50,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 [COOLERS.CO](https://coolors.co/) - Decent resource for picking color schemes.  
 [PALLETON](http://www.paletton.com/) - Advanced color pallete generator with advanced fine tuning available.
-[COLOR-HEX](https://www.color-hex.com/) - Useful for finding Hex Color Codes and Palettes.
+[COLOR-HEX](https://www.color-hex.com/) - Useful for finding Hex Color Codes and Palettes
 
 ## Fonts, Graphics & Icons
 
@@ -72,6 +77,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 ## Chrome Extensions
 
 [COLORZILLA](http://www.colorzilla.com/chrome/) - Pick color from web page and more color options directly in browser.
+[CSS PEEPER](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en) - Great chrome extension for seeing what CSS styles are used on any website.
 
 ## Bash Guide
 
@@ -83,6 +89,7 @@ This is probably going to be a big list, we'll do our best to break it up and or
 
 [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/) - Various tutorial/guide style video's ranging from front-end to back-end to full stack development and more. This channel is very project based.  
 [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Vast collection of tutorial video's going over various technologies and languages which range from front-end to back-end to full stack.
+[The Coding Train](https://www.youtube.com/user/shiffman/featured) - Amazing collection of coding/programming challenges in Processing and also JavaScript using the P5js library and soooo much more!
 
 ## Podcasts
 
