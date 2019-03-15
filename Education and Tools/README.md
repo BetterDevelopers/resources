@@ -44,6 +44,7 @@ https://scrimba.com/p/p7P5Hd/TodoItem - the most in-depth intro to React I have 
 ## Communities  
 
 [Devto](https://dev.to/t/devto) - community anyone can join, lots of resources, some people use on their resume/cv
+[hack.pledge](https://hackpledge.org/) - connect with developers by each pledging 1 hour of your time to learn or teach.
 
 ## Design Resources
 
