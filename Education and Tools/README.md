@@ -17,11 +17,11 @@ This is probably going to be a big list, we'll do our best to break it up and or
 [CodeSignal](https://codesignal.com/)  
 [Kirupa](https://www.kirupa.com/)  
 [Teach Yourself CS](teachyourselfcs.com)  
-[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)
-[Eloquent JavaScript](https://eloquentjavascript.net/)
-[MySQLTutorial](http://www.mysqltutorial.org/)
-[Code Wars](https://www.codewars.com/)
-
+[You Don't Know JavaScript](https://github.com/getify/You-Dont-Know-JS)  
+[Eloquent JavaScript](https://eloquentjavascript.net/)  
+[MySQLTutorial](http://www.mysqltutorial.org/)  
+[Code Wars](https://www.codewars.com/)  
+  
 ## Blogs
 
 [DigitalOcean](https://www.digitalocean.com/)  
@@ -43,13 +43,13 @@ https://scrimba.com/p/p7P5Hd/TodoItem - the most in-depth intro to React I have 
 
 ## Communities  
 
-[Devto](https://dev.to/t/devto) - community anyone can join, lots of resources, some people use on their resume/cv
+[Devto](https://dev.to/t/devto) - community anyone can join, lots of resources, some people use on their resume/cv  
 [hack.pledge](https://hackpledge.org/) - connect with developers by each pledging 1 hour of your time to learn or teach.
 
 ## Design Resources
 
 [COOLERS.CO](https://coolors.co/) - Decent resource for picking color schemes.  
-[PALLETON](http://www.paletton.com/) - Advanced color pallete generator with advanced fine tuning available.
+[PALLETON](http://www.paletton.com/) - Advanced color pallete generator with advanced fine tuning available.  
 [COLOR-HEX](https://www.color-hex.com/) - Useful for finding Hex Color Codes and Palettes
 
 ## Fonts, Graphics & Icons
@@ -70,13 +70,13 @@ https://scrimba.com/p/p7P5Hd/TodoItem - the most in-depth intro to React I have 
 [OH SHIT GIT](http://ohshitgit.com/) - Cheat sheet for non standard Git commands used to get you out of a mess.  
 [NO BULLSHIT GIT COMMANDS](https://rogerdudler.github.io/git-guide/) - My personal favorite no bullshit git commands.  
 [SHOPIFY](https://www.shopify.com/partners/shopify-cheat-sheet) - Shopify cheat sheet, mostly covers liquid syntax but good.  
-[CSS Grid Cheat Sheet](http://grid.malven.co/) - CSS Grid Cheat Sheet
+[CSS Grid Cheat Sheet](http://grid.malven.co/) - CSS Grid Cheat Sheet  
 [REACT CheatSheet](https://devhints.io/react) - REACT Cheatsheet, also many other cheatsheets on [devhints](https://devhints.io/)
 
 
 ## Chrome Extensions
 
-[COLORZILLA](http://www.colorzilla.com/chrome/) - Pick color from web page and more color options directly in browser.
+[COLORZILLA](http://www.colorzilla.com/chrome/) - Pick color from web page and more color options directly in browser.  
 [CSS PEEPER](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en) - Great chrome extension for seeing what CSS styles are used on any website.
 
 ## Bash Guide
@@ -88,7 +88,7 @@ https://scrimba.com/p/p7P5Hd/TodoItem - the most in-depth intro to React I have 
 ## Youtube Channels
 
 [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/) - Various tutorial/guide style video's ranging from front-end to back-end to full stack development and more. This channel is very project based.  
-[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Vast collection of tutorial video's going over various technologies and languages which range from front-end to back-end to full stack.
+[The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/) - Vast collection of tutorial video's going over various technologies and languages which range from front-end to back-end to full stack.  
 [The Coding Train](https://www.youtube.com/user/shiffman/featured) - Amazing collection of coding/programming challenges in Processing and also JavaScript using the P5js library and soooo much more!
 
 ## Podcasts
